@@ -6,7 +6,7 @@ geographiclib==1.50
 geopy==2.0.0
 idna==2.10
 nominatim==0.1
-Pillow==7.2.0
+Pillow==8.2.0
 pytz==2020.1
 requests==2.24.0
 sqlparse==0.3.1
